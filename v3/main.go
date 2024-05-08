@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/teghnet/go-modver/v2/data"
+	"github.com/teghnet/go-modver/v3/data"
 )
 
 func main() {
