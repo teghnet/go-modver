@@ -1,1 +1,1 @@
-v3.0.0 in v3 dir
+v3.0.1 in v3 dir
